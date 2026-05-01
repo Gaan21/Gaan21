@@ -17,7 +17,6 @@ Currently building **WorkTracker**, an independent SaaS product for time trackin
 ## Featured work
 
 - **WorkTracker** — Independent SaaS product for time tracking, auditability, reporting, offline clock-ins, and operational workflows.
-- **setup-codex-per-repo** — Local script to configure Codex and MCPs per repository with safer defaults.
 - **Flutter apps** — Cross-platform mobile work focused on maintainability, navigation, local persistence, and clean architecture.
 
 ## Links
