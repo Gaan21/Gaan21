@@ -1,40 +1,45 @@
-# Hi, I'm Luciano Plaza
+<h1 align="center">Hi, I'm Luciano Plaza</h1>
 
-Full-Stack Software Engineer focused on Flutter, .NET, TypeScript, offline-first mobile apps, backend APIs, and product-oriented delivery.
+<p align="center">
+  <strong>Full-Stack Software Engineer</strong><br>
+  Flutter · .NET · TypeScript · Offline-First · AI-Assisted Delivery
+</p>
 
-I build production-ready software with a strong focus on architecture, performance, security, testing, maintainability, and pragmatic delivery.
+---
 
-Currently building **WorkTracker**, an independent SaaS product for time tracking and compliance workflows for Spanish SMBs.
+### What I do
 
-## Core stack
+I design and ship production-ready software with a focus on architecture, performance, security, testing, and maintainability.
 
-- Mobile: Flutter, Dart, Provider, GoRouter, SQLite
-- Backend: C#, ASP.NET Core, REST APIs, JWT/Auth, EF Core, SQL Server
-- Web & platform: TypeScript, Next.js, Astro, Supabase, PostgreSQL, Cloudflare
-- Quality: Clean Architecture, MVVM, CI/CD, automated testing, linting, review guardrails
-- AI-assisted delivery: versioned guidelines, custom lint rules, CI guardrails, structured workflows
+Currently building **[WorkTracker](https://worktracker.es)** — an independent SaaS for time tracking, compliance workflows, and auditability for Spanish SMBs.
 
-## Featured work
+### Core stack
 
-- **WorkTracker** — Independent SaaS product for time tracking, auditability, reporting, offline clock-ins, and operational workflows.
-- **Flutter apps** — Cross-platform mobile work focused on maintainability, navigation, local persistence, and clean architecture.
+| Area | Technologies |
+|------|-------------|
+| **Mobile** | Flutter, Dart, Provider, GoRouter, SQLite, offline-first sync |
+| **Backend** | C#, ASP.NET Core, REST APIs, JWT/Auth, EF Core, SQL Server |
+| **Web & Platform** | TypeScript, Next.js, Astro, Supabase, PostgreSQL, Cloudflare |
+| **Quality** | Clean Architecture, MVVM, CI/CD, automated testing, linting, review guardrails |
+| **AI-Assisted Delivery** | Versioned guidelines, custom lint rules, CI guardrails, structured workflows |
 
-## Links
+### WorkTracker
 
-- LinkedIn: linkedin.com/in/luciano-plaza-grueso
-- Portfolio/Product: worktracker.es
+An independent SaaS for time tracking, compliance workflows, and auditability for Spanish SMBs.
 
-<!--
-**Gaan21/Gaan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Current stack:** Astro landing, Next.js web panel, Supabase/PostgreSQL, Cloudflare, CI/CD, and AI-assisted delivery guardrails.
 
-Here are some ideas to get you started:
+Flutter mobile is part of the broader product ecosystem. See the [architecture case study](https://github.com/Gaan21/worktracker-case-study) for details.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Pinned repos
+
+- [setup-codex-per-repo](https://github.com/Gaan21/setup-codex-per-repo) — Per-repo MCP isolation for Codex CLI
+- [worktracker-case-study](https://github.com/Gaan21/worktracker-case-study) — Architecture case study (docs only)
+- [PlanSemanalComidas](https://github.com/Gaan21/PlanSemanalComidas) — Flutter meal-planning app
+- [controlRemotoToshibaApp](https://github.com/Gaan21/controlRemotoToshibaApp) — Flutter IR remote control app
+- [SignalR](https://github.com/Gaan21/SignalR) — SignalR + hosted services prototype
+
+### Connect
+
+- Portfolio/Product: [worktracker.es](https://worktracker.es)
+- LinkedIn: [luciano-plaza-grueso](https://linkedin.com/in/luciano-plaza-grueso)
