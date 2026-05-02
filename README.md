@@ -31,14 +31,6 @@ An independent SaaS for time tracking, compliance workflows, and auditability fo
 
 Flutter mobile is part of the broader product ecosystem. See the [architecture case study](https://github.com/Gaan21/worktracker-case-study) for details.
 
-### Pinned repos
-
-- [setup-codex-per-repo](https://github.com/Gaan21/setup-codex-per-repo) — Per-repo MCP isolation for Codex CLI
-- [worktracker-case-study](https://github.com/Gaan21/worktracker-case-study) — Architecture case study (docs only)
-- [PlanSemanalComidas](https://github.com/Gaan21/PlanSemanalComidas) — Flutter meal-planning app
-- [controlRemotoToshibaApp](https://github.com/Gaan21/controlRemotoToshibaApp) — Flutter IR remote control app
-- [SignalR](https://github.com/Gaan21/SignalR) — SignalR + hosted services prototype
-
 ### Connect
 
 - Portfolio/Product: [worktracker.es](https://worktracker.es)
