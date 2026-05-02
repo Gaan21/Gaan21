@@ -27,7 +27,7 @@ Currently building **[WorkTracker](https://worktracker.es)** — an independent 
 
 An independent SaaS for time tracking, compliance workflows, and auditability for Spanish SMBs.
 
-**Current stack:** Astro landing, Next.js web panel, Supabase/PostgreSQL, Cloudflare, CI/CD, and AI-assisted delivery guardrails.
+**Current stack:** Astro landing, Next.js web panel, Supabase/PostgreSQL + Edge Functions, Cloudflare (CDN, DNS, WAF), CI/CD, and AI-assisted delivery guardrails.
 
 Flutter mobile is part of the broader product ecosystem. See the [architecture case study](https://github.com/Gaan21/worktracker-case-study) for details.
 
