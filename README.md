@@ -33,5 +33,5 @@ Flutter mobile is part of the broader product ecosystem. See the [architecture c
 
 ### Connect
 
-- Portfolio/Product: [worktracker.es](https://worktracker.es)
+- Product: [worktracker.es](https://worktracker.es)
 - LinkedIn: [luciano-plaza-grueso](https://linkedin.com/in/luciano-plaza-grueso)
